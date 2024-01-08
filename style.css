@@ -1,0 +1,44 @@
+.container-fluid{
+    padding: 15px;
+    background-color: #8d8888;
+    text-align: center;
+}
+header, main, footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+}
+main{
+    margin: 10vh 0 10vh 0;
+}
+.row{
+    align-items: center;
+}
+.bouton {
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 17px; 
+    background-color: #8d8888;
+    border: none;
+}
+.bas{
+    padding: 15px 15px;
+    background-color: #8d8888;
+    text-align: left;
+}
+.titre{
+    color: #8d8888;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.lien{
+    color: black;
+    text-decoration: none;
+}
+#ressource{
+    padding-left: 25vh;
+}
+#src{
+    padding-left: 25vh;
+}
